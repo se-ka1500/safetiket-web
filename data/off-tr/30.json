@@ -1,0 +1,21 @@
+{
+  "8690565100530": {
+    "code": "8690565100530",
+    "product_name": "Pinar Sut",
+    "product_name_tr": "",
+    "brands": "Pinar",
+    "ingredients_text": "yarim yagli inek sutu",
+    "ingredients_text_tr": "",
+    "allergens_tags": [
+      "en:sut"
+    ],
+    "traces_tags": [],
+    "additives_tags": [],
+    "labels_tags": [
+      "en:"
+    ],
+    "nutriments": {},
+    "last_modified_t": 1700000000,
+    "completeness": 0.8
+  }
+}
